@@ -1,4 +1,4 @@
-package TP5;
+package _Java_Swing;
 
 import javax.swing.*;
 import java.awt.*;
